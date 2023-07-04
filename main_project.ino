@@ -1,5 +1,46 @@
 /*
+THIS SOURCE CODE IS MADE FOR THE FOLLOWING COURSE:
 
+  COURSE NAME    : INTERNET OF THINGS (ITT569)
+  INSTITUTION    : UNIVERSITI TEKNOLOGI MARA CAWANGAN TERENGGANU KAMPUS KUALA TERENGGANU
+  PROGRAME       : BACHELORS OF COMPUTER SCIENCE (HONS.) MOBILE COMPUTING
+  GROUP          : CS2706B (MARCH - AUGUST 2023)
+  PROJECT        : EGGSPERT CHICKEN INCUBATOR (ECI)
+  GROUP MEMBERS  :
+  
+    MUHAMAD RAHMAT BIN MUSTAFA          2021858398
+    MUHAMAD DANISH FAZWAN BIN ROSOLIZA  2020490082
+    ISMAH HADIRAH BINTI MD ISA          2020476688
+    MIRZA AFRINA BINTI YUSOF            2020872682
+    NURUL ANNISA BINTI ADAM             2021868368
+
+HARDWARE:
+  Arduino UNO + USB cable
+  MG995 Metal 360 Continuous Servo
+  DHT11 Temperature and Humidity Sensor Module Breakout
+  DS1307 RTC I2C Module (Real Time Clock Module)
+  Breadboard 8.5x5.5cm (400 Holes)
+  Jumper male to male 20cm
+  HC-SR505 Mini PIR Motion Sensor Module
+  3V-5V 0.2A Cooling Fan for RPi with Screws 
+  Opto-isolator Relay 5V-1way blue
+  humidifier
+  Resistor 0.25W 5% 10K
+  IRFZ44N MOSFET n-Channel Power Transistor
+  Electrolytic Capacitor 16V/50V 1uF
+  Non-polarized (ceramic) Capacitor 50V (1nF)
+  Voltage Regulator L7805CV (5V)
+  HC-SR505 Mini PIR Motion Sensor
+  Female to Male (FM) 40pcs Dupoint Jumper
+  Malo to Male (MM) 40pcs Dupoint Jumper
+  5V/12V 1 2 4 8 Way Channels … 
+  MB102 Solderless Breadboard (400 holes)
+  DHT11 High Acc. Humidity and Temperature Sensor
+  5V Bulb + Housing + required components
+  Corrugated Sheet
+  Cloth Tape
+  Pipe + holder
+  Gears + Pinion Gears
 */
 
 //hcsr505
